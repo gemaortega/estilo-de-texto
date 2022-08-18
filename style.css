@@ -1,0 +1,32 @@
+h1{
+    background-color: black;
+    color: cyan; 
+    text-align: left;
+    font-weight: bold;
+    font-family: "Comic Sans";
+    height: 50px;
+    font-size: 30pt;
+}
+span{
+    color: white;
+}
+h2{
+    background-color: rebeccapurple;
+    color: white;   
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+    font-family: sans-serif;
+    height: 45px;
+
+}
+h3{
+    background-color: lightblue;
+    color: blue;
+    text-align: right;
+    font-style: normal;
+    font-weight: normal;
+    font-family: serif;
+    height: 30px;
+
+}
