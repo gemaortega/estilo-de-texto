@@ -1,32 +1,39 @@
+body {
+    font-family: 'Comfortaa';
+}
+
 h1{
     background-color: black;
     color: cyan; 
     text-align: left;
-    font-weight: bold;
-    font-family: "Comic Sans";
+    font-weight: bolder;
     height: 50px;
     font-size: 30pt;
+    padding-top: 10px;
+    padding-left: 10px;
 }
+
 span{
     color: white;
 }
+
 h2{
     background-color: rebeccapurple;
     color: white;   
     text-align: center;
     font-style: italic;
     font-weight: 200;
-    font-family: sans-serif;
     height: 45px;
-
+    padding-top: 10px;
 }
+
 h3{
     background-color: lightblue;
     color: blue;
     text-align: right;
     font-style: normal;
     font-weight: normal;
-    font-family: serif;
     height: 30px;
-
+    padding-top: 10px;
+    padding-right: 10px;
 }
